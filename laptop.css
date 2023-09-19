@@ -1,0 +1,8 @@
+/* Medium devices (landscape tablets, 768px and up) */
+  
+    body{
+        background-color: green;
+    }
+    p{
+        background-color: gray;
+    }
